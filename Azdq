@@ -1,0 +1,5 @@
+# Layihə qovluğunda
+git init
+git add .
+git commit -m "WhatsApp klonu"
+# GitHub-da yeni repo yaradın və push edin
